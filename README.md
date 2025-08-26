@@ -35,7 +35,7 @@ I enjoy solving real-world problems through clean, scalable code.
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/navinjha04)
+- 🔗 [www.linkedin.com/in/navinjha04]
 - 📧 Email: [njha55360@gmail.com]
 
 
