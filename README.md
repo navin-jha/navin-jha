@@ -17,6 +17,11 @@ I enjoy solving real-world problems with clean, scalable, and efficient code.
 ## 📌 Pinned Projects
 
 ### 📁 [My Portfolio Website - Live](https://port-folio-nine-rho.vercel.app)🌐
+>LOGIN:
+>[Admin login credentials:
+Email: john@example.com
+Password: john@123]
+
 
 > A fully responsive personal portfolio website built using **React** and **Tailwind CSS**.  
 > Showcases my skills, projects, and contact information.  
