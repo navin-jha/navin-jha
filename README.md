@@ -22,7 +22,7 @@ I enjoy solving real-world problems with clean, scalable, and efficient code.
 > Showcases my skills, projects, and contact information.  
 > Hosted on Vercel for fast performance and easy deployment.
 
-### 📁 [PMS – Live Project 🌐](https://pms-frontend-topaz-one.vercel.app)
+### 📁 [PMS – Live Project 🌐](https://pms-frontend-lovat.vercel.app)
 
 - **Frontend:** React + Vite  
 - **Backend:** Node.js + Express  
