@@ -1,60 +1,87 @@
-# 👋 Hi, I'm Navin Jha
+# Hi 👋, I'm Navin Jha
 
-I'm a passionate **Full-Stack Developer** who loves building modern web applications using **JavaScript**, **React**, **Node.js**, and **TypeScript**.  
-I enjoy solving real-world problems with clean, scalable, and efficient code.
+### Full Stack Developer | React Developer | Spring Boot Developer
 
----
-
-## 🔧 Tech Stack
-
-- **Frontend:** React, Vite, HTML, CSS, JavaScript, TypeScript
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel
+I'm a passionate Full Stack Developer focused on building scalable web applications using React, Spring Boot, Node.js, and modern web technologies. I enjoy creating responsive user interfaces, developing REST APIs, and solving real-world business problems through technology.
 
 ---
 
-## 📌 Pinned Projects
+## 🚀 About Me
 
-### 📁 [My Portfolio Website - Live](https://navin-port-folio.vercel.app)
-> A fully responsive personal portfolio website built using **React** and **Tailwind CSS**.  
-> Showcases my skills, projects, and contact information.  
-> Hosted on Vercel for fast performance and easy deployment.
-
-### 📁 [PMS – Live Project 🌐](https://pms-frontend-lovat.vercel.app)
->LOGIN:
->[Admin login credentials:
-Email: john@example.com
-Password: john@123]
-
-- **Frontend:** React + Vite  
-- **Backend:** Node.js + Express  
-> A project management system to efficiently handle tasks, teams, and projects with a collaborative approach.
+* 🌱 Currently working on Full Stack Web Applications
+* 💻 Experienced with React, Spring Boot, Java, JavaScript, Node.js
+* 🔍 Interested in SEO, Performance Optimization, and Modern Web Development
+* 📚 Continuously learning new technologies and best practices
+* 🎯 Goal: Build impactful products and grow as a Software Engineer
 
 ---
 
-### 🚀 HRMS Project
-> A full-stack **Human Resource Management System** built using React, Tailwind CSS, Node.js, Express, and MySQL.  
-> Models organizational structures such as companies, divisions, departments, employee categories, and roles.  
-> Uses RESTful APIs and a relational MySQL database with foreign key constraints to ensure data integrity.
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Vite
+
+### Backend
+
+* Spring Boot
+* Java
+* Node.js
+* Express.js
+
+### Database
+
+* MySQL
+* MongoDB
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
 
 ---
 
-### 🧠 JavaScript Basics
-> A collection of beginner-friendly JavaScript programs and mini projects for practice and quick reference.
+## 🚀 Featured Projects
 
----
+### Digital Sixth Sense (https://digitaltsixthsense.com)
+- Developed a modern business website using React and Vite
+- Implemented SEO optimization and performance improvements
+- Built responsive UI components and interactive user experiences
+- Integrated contact forms and lead generation functionality
+- Managed deployment, maintenance, and ongoing feature updates
 
-### ⚛️ React Projects
-> Various small to medium-sized projects demonstrating different patterns, components, and libraries within the React ecosystem.
+### SKPS Enterprise (https://skpsenterprises.com)
+- Developed a responsive corporate website from scratch
+- Created reusable React components and modern UI layouts
+- Optimized website performance and accessibility
+- Implemented inquiry and contact functionalities
+- Maintained and enhanced the platform based on business requirements
 
----
+### GymDB – Gym Management System 🚧 (80% Complete)
 
-## 📫 Let's Connect
+- Developing a full-stack gym management system using Spring Boot and React
+- Implemented JWT-based Authentication and Role-Based Access Control (RBAC)
+- Built secure login, registration, and user management modules
+- Developed RESTful APIs for gym members, trainers, and administrators
+- Integrated React frontend with Spring Boot backend services
+- Created responsive dashboards with role-specific access and functionality
+- Implemented secure session handling and protected routes
+- Currently working on advanced management and reporting features
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/navinjha04)
-- 📧 Email: njha55360@gmail.com
+**Tech Stack:** Spring Boot, Java, React, JWT, MySQL, REST API
 
----
 
-> 🚀 *Always learning, always building.*
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/navin-jha
+* LinkedIn:(https://www.linkedin.com/in/navinjha04/)
+
+⭐ Always open to collaborating on interesting projects.
